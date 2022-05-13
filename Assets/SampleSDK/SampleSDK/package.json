@@ -1,0 +1,16 @@
+{
+    "name": "com.yunoda.samplesdk",
+    "version": "0.0.1",
+    "displayName": "Sample SDK",
+    "description": "This is the sample SDK for how to make the UPM package.",
+    "unity": "2020.3",
+    "unityRelease": "15f2",
+    "keywords": [
+        "Sample"
+    ],
+    "author": {
+        "name": "yunoda",
+        "email": "yunoda@vrhikky.com",
+        "url": "https://www.hikky.life"
+    }
+}
