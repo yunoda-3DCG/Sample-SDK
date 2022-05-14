@@ -12,5 +12,11 @@
         "name": "yunoda",
         "email": "yunoda@vrhikky.com",
         "url": "https://www.hikky.life"
-    }
+    },
+    "samples": [
+        {
+          "displayName": "Import Sample Scenes",
+          "path": "Samples"
+        }
+    ]
 }
