@@ -1,3 +1,24 @@
 {
-	"name": "yunoda.samplesdk"
+    "name": "yunoda.SampleSDK",
+    "rootNamespace": "yunoda",
+    "references": [
+        "GUID:6267b2dfb6000d04d8b349b5bfe3b204"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "DEBUG"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.timeline",
+            "expression": "2.0.0",
+            "define": "TIMELINE"
+        }
+    ],
+    "noEngineReferences": false
 }
