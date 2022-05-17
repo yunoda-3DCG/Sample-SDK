@@ -13,5 +13,6 @@ jobs:
      with:
        registry-url: https://registry.npmjs.org/
    - run: cd Packages/com.yunoda.samplesdk/ && npm publish --access public
+     working-directory: Packages/com.yunoda.samplesdk
      env:
        NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
