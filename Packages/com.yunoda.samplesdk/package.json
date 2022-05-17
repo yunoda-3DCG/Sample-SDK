@@ -1,6 +1,6 @@
 {
   "name": "com.yunoda.samplesdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Sample SDK",
   "description": "This is the sample SDK for how to make the UPM package.",
   "unity": "2020.3",
