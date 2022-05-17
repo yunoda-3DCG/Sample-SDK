@@ -1,7 +1,9 @@
 {
-    "name": "yunoda.SampleSDK.ModuleB",
+    "name": "yunoda.SampleSDK.ModuleA",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:2622079b24b95514dbc527bcc31c3398"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

@@ -1,9 +1,7 @@
 {
     "name": "yunoda.SampleSDK",
     "rootNamespace": "yunoda",
-    "references": [
-        "GUID:6267b2dfb6000d04d8b349b5bfe3b204"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

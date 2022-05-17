@@ -1,0 +1,16 @@
+{
+    "name": "yunoda.SampleSDK.ModuleB",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6267b2dfb6000d04d8b349b5bfe3b204"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
